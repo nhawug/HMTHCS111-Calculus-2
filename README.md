@@ -45,3 +45,5 @@ Test your multivariable calculus skills with these previous exam question papers
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
 * **Previous Course:** Need to brush up on the basics? Check out my notes for [HMTH101 Calculus 1: Calculus of Single Variables](https://github.com/nhawug/HMTH101-Calculus-1).
+
+*Note: This is a personal study portfolio and is not an official university publication.*
