@@ -1,0 +1,25 @@
+%TeXCAD (http://texcad.sf.net/) Picture. File: [int3.pic]. Options on following lines.
+%\grade{\on}
+%\emlines{\off}
+%\epic{\off}
+%\beziermacro{\on}
+%\reduce{\on}
+%\snapping{\off}
+%\pvinsert{% Your \input, \def, etc. here}
+%\quality{8.000}
+%\graddiff{0.005}
+%\snapasp{1}
+%\zoom{4.0000}
+\unitlength 1mm % = 2.845pt
+\linethickness{0.4pt}
+\ifx\plotpoint\undefined\newsavebox{\plotpoint}\fi % GNUPLOT compatibility
+\begin{picture}(173.5,77.25)(0,0)
+\put(71,7.25){\vector(1,0){94.25}}
+\put(79.5,3.25){\vector(0,1){67.5}}
+\qbezier(79.75,7)(77.25,66.625)(168.75,61.75)
+\put(117.5,7.5){\rule{7.25\unitlength}{49.75\unitlength}}
+\put(121,5){$\Delta x$}
+\put(170,6.75){$x$}
+\put(80.25,77.25){$y$}
+\put(173.5,62.75){$y=\sqrt{x}$}
+\end{picture}
