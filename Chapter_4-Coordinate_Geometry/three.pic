@@ -1,0 +1,25 @@
+%TeXCAD (http://texcad.sf.net/) Picture. File: [three.pic]. Options on following lines.
+%\grade{\on}
+%\emlines{\off}
+%\epic{\off}
+%\beziermacro{\on}
+%\reduce{\on}
+%\snapping{\off}
+%\pvinsert{% Your \input, \def, etc. here}
+%\quality{8.000}
+%\graddiff{0.005}
+%\snapasp{1}
+%\zoom{4.0000}
+\unitlength 1mm % = 2.845pt
+\linethickness{0.4pt}
+\ifx\plotpoint\undefined\newsavebox{\plotpoint}\fi % GNUPLOT compatibility
+\begin{picture}(104.75,70.75)(0,0)
+\put(14.5,10){\line(1,0){82.75}}
+%\emline(14.5,10)(93.5,70.75)
+\multiput(14.5,10)(.04386451971,.03373126041){1801}{\line(1,0){.04386451971}}
+%\end
+\qbezier(26.5,10.25)(28.75,14.5)(24,16.75)
+\put(34.25,16.5){$\theta =$ directed angle}
+\put(21.25,52.5){$r=$ directed distance}
+\put(104.75,70.75){$P=(r, \theta)$}
+\end{picture}
