@@ -8,6 +8,16 @@ Welcome to my repository for **HMTHCS111 Calculus of Several Variables**!
 
 This repository contains my digitized study notes based on the lectures by G. NHAWU at the University of Zimbabwe. The notes are typeset in LaTeX for clean mathematical formatting and cover advanced topics from the Department of Mathematics and Computational Sciences.
 
+## 📕 Complete Course PDF
+
+If you prefer to download or view the entire course in a single, comprehensive document, you can access the full compiled PDF here:
+
+*   **[Download the Complete HMTHCS111 Notes](./hmth111notes.pdf)**
+
+*(Note: These notes include all chapters, from Vector Geometry to Infinite Series, complete with tutorial questions.)*
+
+---
+
 ## 📖 Table of Contents
 
 *   **[Chapter 1: What is Calculus?](./Chapter_1_What_is_Calculus/)**
