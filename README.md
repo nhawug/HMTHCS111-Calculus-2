@@ -21,7 +21,7 @@ If you prefer to download or view the entire course in a single, comprehensive d
 ## 📖 Table of Contents
 
 *   **[Chapter 1: What is Calculus?](./Chapter_1_What_is_Calculus/Chapter1.pdf)**
-*   **[Chapter 2: Vectors and the Geometry of Space](./Chapter_2_Vectors_and_Geometry/)**
+*   **[Chapter 2: Vectors and the Geometry of Space](./Chapter_2_Vectors_and_Geometry/Chapter2.pdf)**
 *   **[Chapter 3: Lines and Planes in Space](./Chapter_3_Lines_and_Planes/)**
 *   **[Chapter 4: Coordinate Geometry in 3 Dimensions](./Chapter_4_Coordinate_Geometry/)**
 *   **[Chapter 5: Vector-Valued Functions](./Chapter_5_Vector_Valued_Functions/)**
