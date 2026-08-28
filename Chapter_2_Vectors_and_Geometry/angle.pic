@@ -1,0 +1,29 @@
+%TeXCAD (http://texcad.sf.net/) Picture. File: [angle.pic]. Options on following lines.
+%\grade{\on}
+%\emlines{\off}
+%\epic{\off}
+%\beziermacro{\on}
+%\reduce{\on}
+%\snapping{\off}
+%\pvinsert{% Your \input, \def, etc. here}
+%\quality{8.000}
+%\graddiff{0.005}
+%\snapasp{1}
+%\zoom{4.0000}
+\unitlength 1mm % = 2.845pt
+\linethickness{0.4pt}
+\ifx\plotpoint\undefined\newsavebox{\plotpoint}\fi % GNUPLOT compatibility
+\begin{picture}(86.75,77)(0,0)
+%\vector(17.25,16)(50,77)
+\put(50,77){\vector(1,2){.07}}\multiput(17.25,16)(.03372811535,.06282183316){971}{\line(0,1){.06282183316}}
+%\end
+%\vector(17.25,15.75)(86.75,18)
+\put(86.75,18){\vector(1,0){.07}}\multiput(17.25,15.75)(1.03731343,.03358209){67}{\line(1,0){1.03731343}}
+%\end
+%\qbezvec(29.75,15.75)(27.375,25.5)(21.5,23.25)
+\put(21.5,23.25){\vector(-4,-1){.07}}\qbezier(29.75,15.75)(27.375,25.5)(21.5,23.25)
+%\end
+\put(26.5,51){${\bf{A}}$}
+\put(50.75,12.25){${\bf{B}}$}
+\put(33.5,25){$\theta$}
+\end{picture}
