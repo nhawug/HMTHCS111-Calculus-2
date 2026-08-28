@@ -1,5 +1,9 @@
 # HMTHCS111 Calculus 2 - Study Notes
 
+![Course](https://img.shields.io/badge/Course-HMTHCS111-blue)
+![LaTeX](https://img.shields.io/badge/Typeset_in-LaTeX-008080?logo=latex)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 Welcome to my repository for **HMTHCS111 Calculus of Several Variables**! 
 
 This repository contains my digitized study notes based on the lectures by G. NHAWU at the University of Zimbabwe. The notes are typeset in LaTeX for clean mathematical formatting and cover advanced topics from the Department of Mathematics and Computational Sciences.
@@ -19,10 +23,6 @@ This repository contains my digitized study notes based on the lectures by G. NH
 
 *   **Read the notes:** Click on the chapter links above to open the compiled `.pdf` files.
 *   **View the code:** Explore the `.tex` files to see the LaTeX formatting for 3D coordinate geometry, Jacobians, and power series.
-
-![Course](https://img.shields.io/badge/Course-HMTHCS111-blue)
-![LaTeX](https://img.shields.io/badge/Typeset_in-LaTeX-008080?logo=latex)
-![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
