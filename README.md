@@ -26,7 +26,7 @@ If you prefer to download or view the entire course in a single, comprehensive d
 *   **[Chapter 4: Coordinate Geometry in 3 Dimensions](./Chapter_4-Coordinate_Geometry/Chapter4.pdf)**
 *   **[Chapter 5: Vector-Valued Functions](./Chapter_5_Vector_Valued_Functions/Chapter5.pdf)**
 *   **[Chapter 6: Functions of Several Variables](./Chapter_6_Functions_of_Several_Variables/Chapter6.pdf)**
-*   **[Chapter 7: Multiple Integration](./Chapter_7_Multiple_Integration/)**
+*   **[Chapter 7: Multiple Integration](./Chapter_7_Multiple_Integration/Chapter7.pdf)**
 *   **[Chapter 8: Infinite Series](./Chapter_8_Infinite_Series/)**
 
 ## 🛠️ How to Use This Repository
