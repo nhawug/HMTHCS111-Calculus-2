@@ -29,6 +29,13 @@ If you prefer to download or view the entire course in a single, comprehensive d
 *   **[Chapter 7: Multiple Integration](./Chapter_7_Multiple_Integration/Chapter7.pdf)**
 *   **[Chapter 8: Infinite Series](./Chapter_8_Infinite_Series/Chapter8.pdf)**
 
+## 📝 Past Exam Papers
+
+Test your multivariable calculus skills with these previous exam question papers. 
+
+* **[2013 Final Exam Question Paper](./Past_Exams/cal2013mth111.pdf)**
+* **[2017 Final Exam Question Paper](./Past_Exams/calc2exam2017.pdf)**
+
 ## 🛠️ How to Use This Repository
 
 *   **Read the notes:** Click on the chapter links above to open the compiled `.pdf` files.
