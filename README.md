@@ -1,2 +1,28 @@
-# HMTHCS111-Calculus-2
-Digitized LaTeX study notes and compiled PDFs for HMTHCS111: Calculus of Several Variables, based on lectures by G. NHAWU at the University of Zimbabwe. Topics cover vector calculus, functions of several variables, multiple integration, and infinite series.
+# HMTHCS111 Calculus 2 - Study Notes
+
+Welcome to my repository for **HMTHCS111 Calculus of Several Variables**! 
+
+This repository contains my digitized study notes based on the lectures by G. NHAWU at the University of Zimbabwe. The notes are typeset in LaTeX for clean mathematical formatting and cover advanced topics from the Department of Mathematics and Computational Sciences.
+
+## 📖 Table of Contents
+
+*   **[Chapter 1: What is Calculus?](./Chapter_1_What_is_Calculus/)**
+*   **[Chapter 2: Vectors and the Geometry of Space](./Chapter_2_Vectors_and_Geometry/)**
+*   **[Chapter 3: Lines and Planes in Space](./Chapter_3_Lines_and_Planes/)**
+*   **[Chapter 4: Coordinate Geometry in 3 Dimensions](./Chapter_4_Coordinate_Geometry/)**
+*   **[Chapter 5: Vector-Valued Functions](./Chapter_5_Vector_Valued_Functions/)**
+*   **[Chapter 6: Functions of Several Variables](./Chapter_6_Functions_of_Several_Variables/)**
+*   **[Chapter 7: Multiple Integration](./Chapter_7_Multiple_Integration/)**
+*   **[Chapter 8: Infinite Series](./Chapter_8_Infinite_Series/)**
+
+## 🛠️ How to Use This Repository
+
+*   **Read the notes:** Click on the chapter links above to open the compiled `.pdf` files.
+*   **View the code:** Explore the `.tex` files to see the LaTeX formatting for 3D coordinate geometry, Jacobians, and power series.
+
+![Course](https://img.shields.io/badge/Course-HMTHCS111-blue)
+![LaTeX](https://img.shields.io/badge/Typeset_in-LaTeX-008080?logo=latex)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+## 📄 License
+This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
